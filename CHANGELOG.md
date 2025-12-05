@@ -91,3 +91,9 @@ and this project adheres to [Semantic Versioning].
 ### Added
 
 - Added support for Smart Lock mqc2hevy.
+
+## [0.1.10] - 2025-12-05
+
+### Fixed
+
+- Fixed HA 2025.12.0 compatibility issue
